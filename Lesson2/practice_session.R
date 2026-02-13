@@ -1,3 +1,5 @@
+require(tidyverse)
+require(readr)
 ####Data joins, basic manipulation, and plotting in ggplot
 
 ###========Data Joins============
@@ -22,17 +24,17 @@ b <- crossing(year = 2005:2015,
 
 ###left join: keep all of the data on the left side (the dataset we name first)
 ##and only keep values of the second dataset that having matching values of our join by variables
-left_join_data1 <- left_join(a, b, by = c("city", "year"))
+left_join_data1 <- left_join(a, b, by = c("city_name" ="city", "year"))
 left_join_data1 <- a %>%
-  left_join(b)
+  left_join(b, by = c("city_name" ="city", "year"))
 
 ##note which years are kept
 summary(left_join_data1)
 
 ###what if we switch the order?
-left_join_data2 <- left_join(b,a, by = c("city", "year"))
+left_join_data2 <- left_join(b,a, by = c("city" = "city_name", "year"))
 left_join_data2 <- b %>%
-  left_join(a)
+  left_join(a, by = c("city" = "city_name", "year"))
 
 ##note which years are kept
 summary(left_join_data2)
