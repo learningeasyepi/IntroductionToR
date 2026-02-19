@@ -33,6 +33,68 @@ exp(confint(negbin_model))
 exp(confint(negbin_model, level = 0.9))
 
 
+###Confounding, multivariate models, and interaction
+###We have a new dataset with variables for health condition (severe, mild/moderate), 
+##bedsores (yes/no), and mortality (yes/no)
+
+df <- readRDS("Lesson3/simpsons.RDS")
+##Are bedsores associated with mortality?
+
+prop.table(table(df$bedsores, df$mortality),1)
+prop.table(table(df$bedsores, df$mortality),2)
+
+s1 <- glm(mortality ~ bedsores, data = df, family = binomial)
+exp(confint(s1))
+
+##Is condition associated with mortality?
+s2 <- glm(mortality ~  condition, data = df, family = binomial)
+exp(confint(s2))
+
+##Is condition associated with bedsores?
+s3 <- glm(bedsores_num ~ condition, data =df, family = binomial)
+exp(confint(s3))
+
+##What happens when we allow the relationship between bedsores and mortality
+##to change by condition?
+s4 <- glm(mortality ~  condition * bedsores, data = df, family = binomial)
+summary(s4)
+
+AIC(s2,s4)
+anova(s2,s4)
+
+tapply( df$mortality,list(df$bedsores), mean)
+tapply( df$mortality,list(df$bedsores,df$condition), mean)
+
+df %>%
+  group_by(bedsores) %>%
+  summarise(mortality = mean(mortality)) %>%
+  ggplot()+
+  geom_bar(aes(x = bedsores, y = mortality),
+           stat = "identity")+
+  theme_bw() +
+  labs(x = "Bedsores", y = "Mortality rate")
+
+df %>%
+  group_by(condition) %>%
+  summarise(bedsores = mean(bedsores_num)) %>%
+  ggplot()+
+  geom_bar(aes(x = condition, y = bedsores),
+           stat = "identity")+
+  theme_bw() 
+
+df %>%
+  group_by(bedsores, condition) %>%
+  summarise(mortality = mean(mortality)) %>%
+  ggplot()+
+  geom_bar(aes(x = condition, y = mortality, fill = bedsores),
+           stat = "identity", position = position_dodge())+
+  theme_bw() +
+  scale_fill_manual(values = c("darkblue","gold2")) +
+  labs(x = "Severity", y = "Mortality rate",
+       fill = "Bedsores",
+       title = "Bedsores and mortality confounded by illness severity")
+
+
 ###Linear GLMM with sleepstudy data
 ###Random intercept + slope
 data(sleepstudy)
@@ -81,3 +143,4 @@ confint(ri_rs_model)
 
 
 AIC(fe_model, ri_model, ri_rs_model)
+
