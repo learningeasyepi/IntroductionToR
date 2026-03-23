@@ -156,7 +156,6 @@ round(clr_matrix[1:4, 1:4], 3)
 #  Run PCA on CLR data 
 pca_result <- prcomp(t(clr_matrix), center = TRUE, scale. = FALSE)
 
-
 # Variance explained 
 var_explained <- summary(pca_result)$importance
 print(var_explained[, 1:5])
@@ -164,7 +163,7 @@ print(var_explained[, 1:5])
 # Scree plot
 screeplot(pca_result, type = "lines", main = "Scree Plot — Aitchison PCA")
 
-# -Extract PC scores and attach metadata 
+# Extract PC scores and attach metadata 
 pca_scores <- as.data.frame(pca_result$x) %>%
   rownames_to_column("sampleID") %>%
   left_join(metadata, by = c("sampleID" = "sampleID"))  
@@ -172,8 +171,6 @@ pca_scores <- as.data.frame(pca_result$x) %>%
 pca_scores
 
 # PCA plot coloured by country
-pct_var <- round(var_explained["Proportion of Variance", ] * 100, 1)
-
 ggplot(pca_scores, aes(x = PC1, y = PC2, colour = country, label = sampleID)) +
   geom_point(size = 3, alpha = 0.8) +
   stat_ellipse(aes(group = country), level = 0.80, linetype = "dashed") +
