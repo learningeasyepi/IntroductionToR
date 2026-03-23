@@ -1,0 +1,539 @@
+sampleID,country,income_group,age_group
+SAMN11252254,Ethiopia,low income,6-12
+SAMN11252255,Ethiopia,low income,6-12
+SAMN11252256,Ethiopia,low income,<3
+SAMN11252262,Ethiopia,low income,<3
+SAMN11252263,Ethiopia,low income,6-12
+SAMN11252275,Ethiopia,low income,<3
+SAMN11252274,Ethiopia,low income,6-12
+SAMN11252283,Ethiopia,low income,6-12
+SAMEA104445526,Germany,high income,<3
+SAMEA104445525,Germany,high income,<3
+SAMEA104445529,Germany,high income,<3
+SAMEA104445528,Germany,high income,6-12
+SAMEA104445530,Germany,high income,<3
+SAMEA104445531,Germany,high income,<3
+SAMEA104445534,Germany,high income,6-12
+SAMEA104445592,Luxembourg,high income,6-12
+SAMEA104445593,Luxembourg,high income,6-12
+SAMEA104445594,Luxembourg,high income,6-12
+SAMEA104445597,Luxembourg,high income,6-12
+SAMEA104445598,Luxembourg,high income,6-12
+SAMEA104445599,Luxembourg,high income,6-12
+SAMN20292760,Mozambique,low income,6-12
+SAMN20292761,Mozambique,low income,6-12
+SAMN20292772,Mozambique,low income,6-12
+SAMN20292783,Mozambique,low income,6-12
+SAMN20292789,Mozambique,low income,6-12
+SAMN20292792,Mozambique,low income,6-12
+SAMN20292795,Mozambique,low income,6-12
+SAMN20292804,Mozambique,low income,6-12
+SAMN20292809,Mozambique,low income,6-12
+SAMN20292819,Mozambique,low income,6-12
+SAMN20292821,Mozambique,low income,6-12
+SAMN20292827,Mozambique,low income,6-12
+SAMN20292828,Mozambique,low income,6-12
+SAMN20292831,Mozambique,low income,6-12
+SAMN20292832,Mozambique,low income,6-12
+SAMN20292835,Mozambique,low income,6-12
+SAMN20292837,Mozambique,low income,6-12
+SAMN20292841,Mozambique,low income,6-12
+SAMN20292843,Mozambique,low income,6-12
+SAMN20292847,Mozambique,low income,6-12
+SAMN20292853,Mozambique,low income,6-12
+SAMN20292852,Mozambique,low income,6-12
+SAMN20292855,Mozambique,low income,6-12
+SAMN20292859,Mozambique,low income,6-12
+SAMN20292861,Mozambique,low income,6-12
+SAMN20292871,Mozambique,low income,6-12
+SAMN20292879,Mozambique,low income,6-12
+SAMN20292880,Mozambique,low income,6-12
+SAMN20292881,Mozambique,low income,6-12
+SAMN20292886,Mozambique,low income,6-12
+SAMN20292885,Mozambique,low income,6-12
+SAMN20292887,Mozambique,low income,6-12
+SAMN20292890,Mozambique,low income,6-12
+SAMN20292896,Mozambique,low income,6-12
+SAMN20292895,Mozambique,low income,6-12
+SAMN20292897,Mozambique,low income,6-12
+SAMN20292900,Mozambique,low income,6-12
+SAMN20292901,Mozambique,low income,6-12
+SAMN20292902,Mozambique,low income,6-12
+SAMN20292904,Mozambique,low income,6-12
+SAMN20292908,Mozambique,low income,6-12
+SAMN20292911,Mozambique,low income,6-12
+SAMN20292913,Mozambique,low income,6-12
+SAMN20292916,Mozambique,low income,6-12
+SAMN20292915,Mozambique,low income,6-12
+SAMN20292922,Mozambique,low income,6-12
+SAMN20292926,Mozambique,low income,6-12
+SAMN20292925,Mozambique,low income,6-12
+SAMN05615097,Italy,high income,<3
+SAMN05615096,Italy,high income,<3
+SAMN05615099,Italy,high income,<3
+SAMN05615098,Italy,high income,<3
+SAMN05615101,Italy,high income,<3
+SAMN05615100,Italy,high income,6-12
+SAMN05615102,Italy,high income,6-12
+SAMN05826491,Estonia,high income,6-12
+SAMN05826501,Russia,upper middle income,6-12
+SAMN05826500,Russia,upper middle income,6-12
+SAMN05826515,Finland,high income,6-12
+SAMN05826536,Russia,upper middle income,6-12
+SAMN05826538,Russia,upper middle income,6-12
+SAMN05826558,Russia,upper middle income,6-12
+SAMN05826557,Russia,upper middle income,6-12
+SAMN05826561,Finland,high income,6-12
+SAMN05826571,Estonia,high income,6-12
+SAMN05826608,Estonia,high income,6-12
+SAMN05826610,Estonia,high income,6-12
+SAMN05826623,Russia,upper middle income,6-12
+SAMN05826636,Russia,upper middle income,6-12
+SAMN05826637,Russia,upper middle income,6-12
+SAMN05826638,Russia,upper middle income,6-12
+SAMN05826664,Estonia,high income,6-12
+SAMN05826709,Russia,upper middle income,6-12
+SAMN05826708,Russia,upper middle income,6-12
+SAMN05826714,Russia,upper middle income,6-12
+SAMN05826712,Russia,upper middle income,6-12
+SAMN05826725,Russia,upper middle income,6-12
+SAMN05826739,Finland,high income,6-12
+SAMN05826757,Russia,upper middle income,6-12
+SAMN05826762,Russia,upper middle income,6-12
+SAMN05826760,Russia,upper middle income,6-12
+SAMN05826799,Russia,upper middle income,6-12
+SAMN05826817,Russia,upper middle income,6-12
+SAMN05826821,Russia,upper middle income,6-12
+SAMN05826829,Russia,upper middle income,6-12
+SAMN05826851,Estonia,high income,6-12
+SAMN05826867,Russia,upper middle income,6-12
+SAMN05826866,Russia,upper middle income,6-12
+SAMN05826881,Russia,upper middle income,6-12
+SAMN05826883,Russia,upper middle income,6-12
+SAMN05826891,Finland,high income,6-12
+SAMN05826895,Finland,high income,6-12
+SAMN05826900,Russia,upper middle income,6-12
+SAMN05826901,Russia,upper middle income,6-12
+SAMN05826911,Russia,upper middle income,6-12
+SAMN05826913,Estonia,high income,6-12
+SAMN05826984,Russia,upper middle income,6-12
+SAMN05826982,Russia,upper middle income,6-12
+SAMN05827028,Russia,upper middle income,6-12
+SAMN05827054,Estonia,high income,6-12
+SAMN05827058,Russia,upper middle income,6-12
+SAMN05827062,Finland,high income,6-12
+SAMN05827094,Finland,high income,6-12
+SAMN05827109,Finland,high income,6-12
+SAMN05827113,Russia,upper middle income,6-12
+SAMN05827138,Russia,upper middle income,6-12
+SAMN05827141,Estonia,high income,<3
+SAMN05827144,Estonia,high income,6-12
+SAMN05827149,Estonia,high income,<3
+SAMN05827148,Estonia,high income,<3
+SAMN05827151,Finland,high income,6-12
+SAMN05827152,Estonia,high income,<3
+SAMN05827158,Finland,high income,<3
+SAMN05827163,Estonia,high income,6-12
+SAMN05827164,Finland,high income,6-12
+SAMN05827165,Finland,high income,<3
+SAMN05827171,Finland,high income,6-12
+SAMN05827173,Finland,high income,<3
+SAMN05827197,Finland,high income,6-12
+SAMN05827201,Estonia,high income,<3
+SAMN05827209,Finland,high income,<3
+SAMN05827218,Russia,upper middle income,6-12
+SAMN05827216,Finland,high income,<3
+SAMN05827222,Finland,high income,<3
+SAMN05827220,Finland,high income,6-12
+SAMN05827224,Russia,upper middle income,6-12
+SAMN05827227,Finland,high income,6-12
+SAMN05827229,Estonia,high income,<3
+SAMN05827228,Finland,high income,<3
+SAMN05827232,Estonia,high income,6-12
+SAMN05827233,Finland,high income,6-12
+SAMN05827239,Finland,high income,<3
+SAMN05827240,Estonia,high income,<3
+SAMN05827246,Estonia,high income,<3
+SAMN05827252,Finland,high income,6-12
+SAMN05827253,Estonia,high income,<3
+SAMN05827255,Estonia,high income,<3
+SAMN05827258,Estonia,high income,<3
+SAMN05827261,Finland,high income,<3
+SAMN05827264,Estonia,high income,6-12
+SAMN05827265,Finland,high income,<3
+SAMN05827267,Finland,high income,6-12
+SAMN18039993,USA,high income,<3
+SAMN18039992,USA,high income,<3
+SAMN18039995,USA,high income,<3
+SAMN18039994,USA,high income,<3
+SAMN18039997,USA,high income,<3
+SAMN18039996,USA,high income,<3
+SAMN18039999,USA,high income,<3
+SAMN18039998,USA,high income,<3
+SAMN18040001,USA,high income,<3
+SAMN18040000,USA,high income,<3
+SAMN18040007,USA,high income,<3
+SAMN18040009,USA,high income,<3
+SAMN18040008,USA,high income,<3
+SAMN18040011,USA,high income,<3
+SAMN18040010,USA,high income,<3
+SAMN18040013,USA,high income,<3
+SAMN18040012,USA,high income,<3
+SAMN18040015,USA,high income,<3
+SAMN18040014,USA,high income,<3
+SAMN18040016,USA,high income,<3
+SAMN18040017,USA,high income,<3
+SAMN18040019,USA,high income,<3
+SAMN18040018,USA,high income,<3
+SAMN18040021,USA,high income,<3
+SAMN18040020,USA,high income,<3
+SAMN18040023,USA,high income,<3
+SAMN18040022,USA,high income,<3
+SAMN18040024,USA,high income,<3
+SAMN18040025,USA,high income,<3
+SAMN18040027,USA,high income,<3
+SAMN18040026,USA,high income,<3
+SAMN18040029,USA,high income,<3
+SAMN18040028,USA,high income,<3
+SAMN18040031,USA,high income,<3
+SAMN18040030,USA,high income,<3
+SAMN18040033,USA,high income,<3
+SAMN18040032,USA,high income,<3
+SAMN18040034,USA,high income,<3
+SAMN18040035,USA,high income,<3
+SAMN18040037,USA,high income,<3
+SAMN18040036,USA,high income,<3
+SAMN18040039,USA,high income,<3
+SAMN18040040,USA,high income,<3
+SAMN18040041,USA,high income,<3
+SAMN18040043,USA,high income,<3
+SAMN18040042,USA,high income,<3
+SAMN18040044,USA,high income,<3
+SAMN18040045,USA,high income,<3
+SAMN18040046,USA,high income,<3
+SAMN18040047,USA,high income,<3
+SAMN18040048,USA,high income,<3
+SAMN18040049,USA,high income,<3
+SAMN18040050,USA,high income,<3
+SAMN18040051,USA,high income,<3
+SAMN18040052,USA,high income,<3
+SAMN18040053,USA,high income,<3
+SAMN18040054,USA,high income,<3
+SAMN18040055,USA,high income,<3
+SAMN18040056,USA,high income,<3
+SAMN18040057,USA,high income,<3
+SAMN18040059,USA,high income,<3
+SAMN18040058,USA,high income,<3
+SAMN18040061,USA,high income,<3
+SAMN18040060,USA,high income,<3
+SAMN18040062,USA,high income,<3
+SAMN18040063,USA,high income,<3
+SAMN18040065,USA,high income,<3
+SAMN18040064,USA,high income,<3
+SAMN18040066,USA,high income,<3
+SAMN18040067,USA,high income,<3
+SAMN18040068,USA,high income,<3
+SAMN18040069,USA,high income,<3
+SAMN18040071,USA,high income,<3
+SAMN18040070,USA,high income,<3
+SAMN18040072,USA,high income,<3
+SAMN18040073,USA,high income,<3
+SAMN18040074,USA,high income,<3
+SAMN18040075,USA,high income,<3
+SAMN18040092,USA,high income,<3
+SAMN18040093,USA,high income,<3
+SAMN18040095,USA,high income,<3
+SAMN18040094,USA,high income,<3
+SAMN18040096,USA,high income,<3
+SAMN18040097,USA,high income,<3
+SAMN18040099,USA,high income,<3
+SAMN18040098,USA,high income,<3
+SAMN18040100,USA,high income,<3
+SAMN18040101,USA,high income,<3
+SAMN18040103,USA,high income,<3
+SAMN18040102,USA,high income,<3
+SAMN18040105,USA,high income,<3
+SAMN18040104,USA,high income,<3
+SAMN18040106,USA,high income,<3
+SAMN18040107,USA,high income,<3
+SAMN18040109,USA,high income,<3
+SAMN18040108,USA,high income,<3
+SAMN18040111,USA,high income,<3
+SAMN18040110,USA,high income,<3
+SAMN18040113,USA,high income,<3
+SAMN18040112,USA,high income,<3
+SAMN18040114,USA,high income,<3
+SAMN18040115,USA,high income,<3
+SAMN18040116,USA,high income,<3
+SAMN18040117,USA,high income,<3
+SAMEA2579906,Sweden,high income,6-12
+SAMEA2579908,Sweden,high income,<3
+SAMEA2579911,Sweden,high income,6-12
+SAMEA2579913,Sweden,high income,<3
+SAMEA2579915,Sweden,high income,<3
+SAMEA2579918,Sweden,high income,6-12
+SAMEA2579920,Sweden,high income,6-12
+SAMEA2579922,Sweden,high income,<3
+SAMEA2579924,Sweden,high income,<3
+SAMEA2579926,Sweden,high income,6-12
+SAMEA2579928,Sweden,high income,<3
+SAMEA2579930,Sweden,high income,6-12
+SAMEA2579934,Sweden,high income,6-12
+SAMEA2579932,Sweden,high income,<3
+SAMEA2579936,Sweden,high income,<3
+SAMEA2579943,Sweden,high income,6-12
+SAMEA2579945,Sweden,high income,<3
+SAMEA2579951,Sweden,high income,6-12
+SAMEA2579953,Sweden,high income,<3
+SAMEA2579955,Sweden,high income,6-12
+SAMEA2579959,Sweden,high income,6-12
+SAMEA2579960,Sweden,high income,6-12
+SAMEA2579962,Sweden,high income,<3
+SAMEA2579964,Sweden,high income,6-12
+SAMEA2579966,Sweden,high income,<3
+SAMEA2579969,Sweden,high income,<3
+SAMEA2579971,Sweden,high income,6-12
+SAMEA2579973,Sweden,high income,<3
+SAMEA2579977,Sweden,high income,6-12
+SAMEA2579979,Sweden,high income,<3
+SAMEA2579985,Sweden,high income,6-12
+SAMEA2579987,Sweden,high income,<3
+SAMEA2579997,Sweden,high income,6-12
+SAMEA2580001,Sweden,high income,6-12
+SAMEA2580009,Sweden,high income,6-12
+SAMEA2580003,Sweden,high income,<3
+SAMEA2580011,Sweden,high income,<3
+SAMEA2580013,Sweden,high income,6-12
+SAMEA2580015,Sweden,high income,<3
+SAMEA2580018,Sweden,high income,6-12
+SAMEA2580020,Sweden,high income,<3
+SAMEA2580023,Sweden,high income,6-12
+SAMEA2580025,Sweden,high income,<3
+SAMEA2580027,Sweden,high income,6-12
+SAMEA2580031,Sweden,high income,<3
+SAMEA2580029,Sweden,high income,<3
+SAMEA2580041,Sweden,high income,6-12
+SAMEA2580043,Sweden,high income,<3
+SAMEA2580045,Sweden,high income,6-12
+SAMEA2580047,Sweden,high income,<3
+SAMEA2580053,Sweden,high income,6-12
+SAMEA2580055,Sweden,high income,<3
+SAMEA2580061,Sweden,high income,6-12
+SAMEA2580063,Sweden,high income,<3
+SAMEA2580069,Sweden,high income,6-12
+SAMEA2580071,Sweden,high income,<3
+SAMEA2580073,Sweden,high income,6-12
+SAMEA2580075,Sweden,high income,<3
+SAMEA2580077,Sweden,high income,6-12
+SAMEA2580081,Sweden,high income,6-12
+SAMEA2580083,Sweden,high income,<3
+SAMEA2580089,Sweden,high income,6-12
+SAMEA2580091,Sweden,high income,<3
+SAMEA2580093,Sweden,high income,6-12
+SAMEA2580095,Sweden,high income,<3
+SAMEA2580103,Sweden,high income,6-12
+SAMEA2580105,Sweden,high income,<3
+SAMEA2580107,Sweden,high income,6-12
+SAMEA2580109,Sweden,high income,<3
+SAMEA2580113,Sweden,high income,6-12
+SAMEA2580119,Sweden,high income,<3
+SAMEA2580125,Sweden,high income,6-12
+SAMEA2580127,Sweden,high income,<3
+SAMEA2580129,Sweden,high income,6-12
+SAMEA2580131,Sweden,high income,<3
+SAMEA2580133,Sweden,high income,6-12
+SAMEA2580135,Sweden,high income,<3
+SAMEA2580141,Sweden,high income,6-12
+SAMEA2580142,Sweden,high income,6-12
+SAMEA2580144,Sweden,high income,<3
+SAMEA2580149,Sweden,high income,6-12
+SAMEA2580147,Sweden,high income,<3
+SAMEA2580153,Sweden,high income,6-12
+SAMEA2580155,Sweden,high income,<3
+SAMEA2580157,Sweden,high income,6-12
+SAMEA2580159,Sweden,high income,<3
+SAMEA2580167,Sweden,high income,6-12
+SAMEA2580169,Sweden,high income,<3
+SAMEA2580173,Sweden,high income,6-12
+SAMEA2580181,Sweden,high income,6-12
+SAMEA2580183,Sweden,high income,<3
+SAMEA2580185,Sweden,high income,6-12
+SAMEA2580189,Sweden,high income,6-12
+SAMEA2580187,Sweden,high income,<3
+SAMEA2580201,Sweden,high income,6-12
+SAMEA2580203,Sweden,high income,<3
+SAMEA2580205,Sweden,high income,6-12
+SAMEA2580207,Sweden,high income,<3
+SAMEA2580215,Sweden,high income,<3
+SAMEA2580217,Sweden,high income,6-12
+SAMEA2580219,Sweden,high income,<3
+SAMEA2580221,Sweden,high income,6-12
+SAMEA2580223,Sweden,high income,<3
+SAMEA2580225,Sweden,high income,6-12
+SAMEA2580227,Sweden,high income,<3
+SAMEA2580229,Sweden,high income,6-12
+SAMEA2580233,Sweden,high income,6-12
+SAMEA2580231,Sweden,high income,<3
+SAMEA2580235,Sweden,high income,<3
+SAMEA2580241,Sweden,high income,6-12
+SAMEA2580243,Sweden,high income,<3
+SAMEA2580245,Sweden,high income,6-12
+SAMEA2580247,Sweden,high income,<3
+SAMEA2580249,Sweden,high income,6-12
+SAMEA2580251,Sweden,high income,<3
+SAMEA2580257,Sweden,high income,6-12
+SAMEA2580261,Sweden,high income,6-12
+SAMEA2580263,Sweden,high income,<3
+SAMEA2580265,Sweden,high income,6-12
+SAMEA2580273,Sweden,high income,6-12
+SAMEA2580275,Sweden,high income,<3
+SAMEA2580285,Sweden,high income,6-12
+SAMEA2580291,Sweden,high income,<3
+SAMEA2580293,Sweden,high income,6-12
+SAMEA2580295,Sweden,high income,<3
+SAMEA2580297,Sweden,high income,6-12
+SAMEA2580299,Sweden,high income,<3
+SAMEA112437701,Zimbabwe,lower middle income,<3
+SAMEA112437709,Zimbabwe,lower middle income,<3
+SAMEA112437710,Zimbabwe,lower middle income,<3
+SAMEA112437718,Zimbabwe,lower middle income,<3
+SAMEA112437720,Zimbabwe,lower middle income,<3
+SAMEA112437722,Zimbabwe,lower middle income,<3
+SAMEA112437723,Zimbabwe,lower middle income,<3
+SAMEA112437725,Zimbabwe,lower middle income,<3
+SAMEA112437728,Zimbabwe,lower middle income,<3
+SAMEA112437732,Zimbabwe,lower middle income,6-12
+SAMEA112437742,Zimbabwe,lower middle income,6-12
+SAMEA112437744,Zimbabwe,lower middle income,6-12
+SAMEA112437746,Zimbabwe,lower middle income,6-12
+SAMEA112437760,Zimbabwe,lower middle income,6-12
+SAMEA112437762,Zimbabwe,lower middle income,6-12
+SAMEA112437766,Zimbabwe,lower middle income,6-12
+SAMEA112437784,Zimbabwe,lower middle income,<3
+SAMEA112437785,Zimbabwe,lower middle income,<3
+SAMEA112437788,Zimbabwe,lower middle income,<3
+SAMEA112437790,Zimbabwe,lower middle income,<3
+SAMEA112437789,Zimbabwe,lower middle income,<3
+SAMEA112437793,Zimbabwe,lower middle income,<3
+SAMEA112437794,Zimbabwe,lower middle income,<3
+SAMEA112437795,Zimbabwe,lower middle income,<3
+SAMEA112437799,Zimbabwe,lower middle income,<3
+SAMEA112437800,Zimbabwe,lower middle income,<3
+SAMEA112437801,Zimbabwe,lower middle income,<3
+SAMEA112437804,Zimbabwe,lower middle income,<3
+SAMEA112437803,Zimbabwe,lower middle income,<3
+SAMEA112437806,Zimbabwe,lower middle income,<3
+SAMEA112437807,Zimbabwe,lower middle income,<3
+SAMEA112437808,Zimbabwe,lower middle income,<3
+SAMEA112437816,Zimbabwe,lower middle income,6-12
+SAMEA112437824,Zimbabwe,lower middle income,6-12
+SAMEA112437828,Zimbabwe,lower middle income,6-12
+SAMEA112437831,Zimbabwe,lower middle income,<3
+SAMEA112437832,Zimbabwe,lower middle income,6-12
+SAMEA112437834,Zimbabwe,lower middle income,<3
+SAMEA112437833,Zimbabwe,lower middle income,<3
+SAMEA112437835,Zimbabwe,lower middle income,<3
+SAMEA112437836,Zimbabwe,lower middle income,<3
+SAMEA112437837,Zimbabwe,lower middle income,<3
+SAMEA112437841,Zimbabwe,lower middle income,<3
+SAMEA112437851,Zimbabwe,lower middle income,<3
+SAMEA112437857,Zimbabwe,lower middle income,<3
+SAMEA112437860,Zimbabwe,lower middle income,6-12
+SAMEA112437863,Zimbabwe,lower middle income,<3
+SAMEA112437864,Zimbabwe,lower middle income,<3
+SAMEA112437866,Zimbabwe,lower middle income,<3
+SAMEA112437874,Zimbabwe,lower middle income,6-12
+SAMEA112437873,Zimbabwe,lower middle income,<3
+SAMEA112437884,Zimbabwe,lower middle income,<3
+SAMEA112437885,Zimbabwe,lower middle income,<3
+SAMEA112437887,Zimbabwe,lower middle income,6-12
+SAMEA112437892,Zimbabwe,lower middle income,6-12
+SAMEA112437894,Zimbabwe,lower middle income,<3
+SAMEA112437895,Zimbabwe,lower middle income,<3
+SAMEA112437899,Zimbabwe,lower middle income,6-12
+SAMEA112437900,Zimbabwe,lower middle income,<3
+SAMEA112437902,Zimbabwe,lower middle income,<3
+SAMEA112437903,Zimbabwe,lower middle income,<3
+SAMEA112437904,Zimbabwe,lower middle income,<3
+SAMEA112437905,Zimbabwe,lower middle income,<3
+SAMEA112437906,Zimbabwe,lower middle income,<3
+SAMEA112437908,Zimbabwe,lower middle income,<3
+SAMEA112437907,Zimbabwe,lower middle income,<3
+SAMEA112437909,Zimbabwe,lower middle income,<3
+SAMEA112437911,Zimbabwe,lower middle income,<3
+SAMEA112437912,Zimbabwe,lower middle income,<3
+SAMEA112437914,Zimbabwe,lower middle income,<3
+SAMEA112437916,Zimbabwe,lower middle income,<3
+SAMEA112437915,Zimbabwe,lower middle income,<3
+SAMEA112437917,Zimbabwe,lower middle income,<3
+SAMEA112437925,Zimbabwe,lower middle income,<3
+SAMEA112437926,Zimbabwe,lower middle income,<3
+SAMEA112437928,Zimbabwe,lower middle income,<3
+SAMEA112437930,Zimbabwe,lower middle income,<3
+SAMEA112437929,Zimbabwe,lower middle income,<3
+SAMEA112437931,Zimbabwe,lower middle income,<3
+SAMEA112437935,Zimbabwe,lower middle income,<3
+SAMEA112437937,Zimbabwe,lower middle income,<3
+SAMEA112437938,Zimbabwe,lower middle income,<3
+SAMEA112437940,Zimbabwe,lower middle income,<3
+SAMEA112437942,Zimbabwe,lower middle income,<3
+SAMEA112437941,Zimbabwe,lower middle income,<3
+SAMEA112437943,Zimbabwe,lower middle income,<3
+SAMEA112437946,Zimbabwe,lower middle income,<3
+SAMEA112437947,Zimbabwe,lower middle income,<3
+SAMEA112437948,Zimbabwe,lower middle income,<3
+SAMEA112437952,Zimbabwe,lower middle income,<3
+SAMEA112437951,Zimbabwe,lower middle income,<3
+SAMEA112437961,Zimbabwe,lower middle income,<3
+SAMEA112437966,Zimbabwe,lower middle income,<3
+SAMEA112437968,Zimbabwe,lower middle income,<3
+SAMEA112437967,Zimbabwe,lower middle income,<3
+SAMEA112437970,Zimbabwe,lower middle income,<3
+SAMEA112437969,Zimbabwe,lower middle income,<3
+SAMEA112437971,Zimbabwe,lower middle income,<3
+SAMEA112438035,Zimbabwe,lower middle income,<3
+SAMEA112438038,Zimbabwe,lower middle income,<3
+SAMEA112438037,Zimbabwe,lower middle income,<3
+SAMEA112438040,Zimbabwe,lower middle income,<3
+SAMEA112438042,Zimbabwe,lower middle income,<3
+SAMEA112438041,Zimbabwe,lower middle income,<3
+SAMEA112438043,Zimbabwe,lower middle income,<3
+SAMEA112438044,Zimbabwe,lower middle income,<3
+SAMEA112438107,Zimbabwe,lower middle income,<3
+SAMEA112438113,Zimbabwe,lower middle income,<3
+SAMEA112438117,Zimbabwe,lower middle income,<3
+SAMEA112438126,Zimbabwe,lower middle income,<3
+SAMEA112438203,Zimbabwe,lower middle income,<3
+SAMEA112438265,Zimbabwe,lower middle income,6-12
+SAMEA112438275,Zimbabwe,lower middle income,<3
+SAMEA112438298,Zimbabwe,lower middle income,6-12
+SAMEA112438334,Zimbabwe,lower middle income,<3
+SAMEA112438337,Zimbabwe,lower middle income,<3
+SAMEA112438418,Zimbabwe,lower middle income,6-12
+SAMEA112438420,Zimbabwe,lower middle income,6-12
+SAMEA112438428,Zimbabwe,lower middle income,6-12
+SAMEA112438437,Zimbabwe,lower middle income,6-12
+SAMEA112438439,Zimbabwe,lower middle income,6-12
+SAMEA112438440,Zimbabwe,lower middle income,6-12
+SAMEA112438441,Zimbabwe,lower middle income,<3
+SAMEA112438445,Zimbabwe,lower middle income,6-12
+SAMEA112438448,Zimbabwe,lower middle income,6-12
+SAMEA112438457,Zimbabwe,lower middle income,6-12
+SAMEA112438459,Zimbabwe,lower middle income,6-12
+SAMEA112438467,Zimbabwe,lower middle income,6-12
+SAMEA112438465,Zimbabwe,lower middle income,6-12
+SAMEA112438468,Zimbabwe,lower middle income,6-12
+SAMEA112438471,Zimbabwe,lower middle income,6-12
+SAMEA112438481,Zimbabwe,lower middle income,6-12
+SAMEA112438485,Zimbabwe,lower middle income,6-12
+SAMEA112438489,Zimbabwe,lower middle income,6-12
+SAMEA112438497,Zimbabwe,lower middle income,<3
+SAMEA112438509,Zimbabwe,lower middle income,6-12
+SAMEA112438511,Zimbabwe,lower middle income,<3
+SAMEA112438523,Zimbabwe,lower middle income,6-12
+SAMEA112438519,Zimbabwe,lower middle income,6-12
+SAMEA112438543,Zimbabwe,lower middle income,<3
+SAMEA112438547,Zimbabwe,lower middle income,<3
+SAMEA112438558,Zimbabwe,lower middle income,6-12
+SAMEA112438564,Zimbabwe,lower middle income,<3
+SAMEA112438570,Zimbabwe,lower middle income,<3
